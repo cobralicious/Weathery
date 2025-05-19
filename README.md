@@ -66,6 +66,16 @@ cd Weathery
 - Press `Run ▶️`
 
 ---
+
+## 📥 Download APK
+
+You can download the latest **Weathery** APK directly by clicking the link below:
+
+[**Download Weathery APK**](https://github.com/cobralicious/Weathery/apk/debug/app-debug.apk)
+
+*(Make sure to allow installation from unknown sources on your device)*
+
+---
   
 ### 🧑‍💻 Author
 Created with ❤️ by [**@cobralicious**](https://t.me/cobralicious) 
