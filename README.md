@@ -1,8 +1,9 @@
 # ☀️ Weathery
 
-<span style="color:#75A9D5">✨ Welcome to **Weathery** — your ultimate weather companion! 🌦️</span>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=75A9D5&center=true&vCenter=true&width=600&lines=✨+Welcome+to+Weathery!;Your+ultimate+weather+companion🌦️;Real-time+forecasts+with+beautiful+Compose+UI;Lightning-fast+performance+⚡" />
+</p>
 
-<span style="color:#75A9D5">Stay updated with real-time forecasts, beautiful Compose UI, and lightning-fast performance. ⚡</span>
 
 **Weathery** is a modern, elegant weather app built with **Jetpack Compose**.  
 Get precise forecasts with a clean UI and smooth performance.
