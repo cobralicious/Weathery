@@ -61,8 +61,10 @@ cd Weathery
 ### 3. Run the app
 - Select an emulator or connected device
 
-- Press #Run ▶️
+- Press `Run ▶️`
 
+---
+  
 ### 🧑‍💻 Author
-Created with ❤️ by @cobralicious
+Created with ❤️ by [**@cobralicious**](https://t.me/cobralicious) 
 
